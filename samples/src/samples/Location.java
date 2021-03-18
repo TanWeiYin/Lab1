@@ -2,7 +2,8 @@ package samples;
 
 public class Location 
 {
-	private String words; // private = restricted access
+	private String words; 
+	private String lines = "Hello World"; 
 
 	  // Getter
 	  public String getName() 
